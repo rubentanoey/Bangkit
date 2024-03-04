@@ -31,8 +31,8 @@ import matplotlib.pyplot as plt
 Get both the data files (csv format)
 """
 
-df_day = pd.read_csv("../dashboard/data/day.csv")
-df_hour = pd.read_csv("../dashboard/data/hour.csv")
+df_day = pd.read_csv("day.csv")
+df_hour = pd.read_csv("hour.csv")
 
 """### Assessing Data
 
